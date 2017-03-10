@@ -1,0 +1,20 @@
+{
+    "name": "bricks81/bricks-module",
+    "description": "Bricks CMS Framework - Module",
+    "license": "MIT",
+    "keywords": [
+        "bricks",
+        "module"
+    ],
+    "homepage": "https://www.bricks-cms.org",
+    "autoload": {
+        "psr-4": {
+            "Bricks\\Module\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": false    
+}
