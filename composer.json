@@ -13,7 +13,11 @@
         }
     },
     "require": {
-        "php": "^7.0"
+        "php": "^7.0",
+        "zendframework/zend-modulemanager":"*",
+        "zendframework/zend-mvc":"*",
+        "zendframework/zend-view":"*",
+        "bricks81/bricks-acl":"*"
     },
     "minimum-stability": "dev",
     "prefer-stable": false    
